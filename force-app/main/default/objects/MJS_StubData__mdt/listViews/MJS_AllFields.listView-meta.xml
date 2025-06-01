@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>MJS_AllFields</fullName>
+    <columns>MasterLabel</columns>
+    <columns>MJS_StubbedObject__c</columns>
+    <columns>MJS_StubbedMethodName__c</columns>
+    <columns>MJS_ReturnType__c</columns>
+    <columns>MJS_ListOfParamTypes__c</columns>
+    <columns>MJS_ListOfParamNames__c</columns>
+    <columns>MJS_ListOfArgs__c</columns>
+    <columns>MJS_Value__c</columns>
+    <filterScope>Everything</filterScope>
+    <label>All Fields</label>
+    <language>en_US</language>
+</ListView>
